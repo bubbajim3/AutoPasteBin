@@ -3,6 +3,7 @@
 bin/
 tmp/
 RemoteSystemsTempFiles/
+src/org/
 *.tmp
 *.bak
 *.swp
